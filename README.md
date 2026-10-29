@@ -1,8 +1,8 @@
-\# AuthDemo — Authentication \& Authorization
+﻿# AuthDemo â€” Authentication & Authorization
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,89 +10,92 @@ This ASP.NET Core Razor Pages application demonstrates cookie-based authenticati
 
 
 
-\## Features
+## Features
 
 
 
-\- Login with username and password
+- Login with username and password
 
-\- SHA-256 password hashing for assignment demonstration
+- SHA-256 password hashing for assignment demonstration
 
-\- User credentials stored in `data/users.json`
+- User credentials stored in `data/users.json`
 
-\- Cookie-based authentication
+- Cookie-based authentication
 
-\- Protected admin page using `\[Authorize]`
+- Protected admin page using `[Authorize]`
 
-\- Logout functionality
-
-
-
-\## Login Credentials
+- Logout functionality
 
 
 
-\- \*\*Username:\*\* `admin`
-
-\- \*\*Password:\*\* `Password123`
+## Login Credentials
 
 
 
-\## Running the Application
+- **Username:** `admin`
+
+- **Password:** `Password123`
 
 
 
-1\. Clone the repository.
-
-2\. Open the project directory.
-
-3\. Run `dotnet run`.
-
-4\. Open the localhost URL displayed in the terminal.
-
-5\. Navigate to `/Account/Login`.
+## Running the Application
 
 
 
-\## Screenshots
+1. Clone the repository.
+
+2. Open the project directory.
+
+3. Run `dotnet run`.
+
+4. Open the localhost URL displayed in the terminal.
+
+5. Navigate to `/Account/Login`.
 
 
 
-\### Login Page
+## Screenshots
 
 
 
-!\[Login Page](screenshots/Login.png)
+### Login Page
 
 
 
-\### Protected Admin Page
+![Login Page](screenshots/Login.png)
 
 
 
-!\[Admin Page](screenshots/Admin.png)
+### Protected Admin Page
 
 
 
-\## Technologies
+![Admin Page](screenshots/Admin.png)
 
 
 
-\- ASP.NET Core Razor Pages
-
-\- C#
-
-\- .NET
-
-\- JSON
-
-\- Cookie Authentication
+## Technologies
 
 
 
-\## Assignment
+- ASP.NET Core Razor Pages
+
+- C#
+
+- .NET
+
+- JSON
+
+- Cookie Authentication
 
 
 
-Module 10.3 — Authentication \& Authorization
+## Assignment
+
+
+
+Module 10.3 â€” Authentication & Authorization
+
+
+
 
